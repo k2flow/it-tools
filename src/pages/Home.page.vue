@@ -62,13 +62,3 @@ const { t } = useI18n();
   margin-bottom: 0;
 }
 </style>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TBCT4HT7BH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-TBCT4HT7BH');
-</script>
